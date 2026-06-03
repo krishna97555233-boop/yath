@@ -1,0 +1,6 @@
+{
+  "name": "La Fitnesse Select",
+  "description": "Premium luxury fitness gym application with admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
